@@ -33,7 +33,8 @@ Add the following entries to your system **Path** variable to enable global term
 * `%JAVA_HOME%\bin`
 * `%ANDROID_HOME%\platform-tools`
 * `%ANDROID_HOME%\emulator`
-
+* `%ANDROID_HOME%\tools`
+* `%ANDROID_HOME%\tools\bin`
 ---
 
 ## 🛠️ Development Scripts
